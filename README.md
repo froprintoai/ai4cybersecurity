@@ -1,5 +1,5 @@
 # ai4cybersecurity
-It's impractical to deal with threats of malware, which is increasing exponentially, by the analysis conducted only by human operators. This leads us to the use of some algorithm which allows us to automate introductory phases of analysis known as *tiage*. These algorithms help cybersecurity professionals respond effectively to ongoing attacks by conducting a preliminary screening of threats.
+It's impractical to deal with threats of malware, which is increasing exponentially, by the analysis conducted only by human operators. This leads us to the use of some algorithm which allows us to automate introductory phases of analysis known as **tiage**. These algorithms help cybersecurity professionals respond effectively to ongoing attacks by conducting a preliminary screening of threats.
 
 Here are tasks done by AI in the field of cybersecurity.  
 * Classification : Properly indentifies types of similar attacks.  
