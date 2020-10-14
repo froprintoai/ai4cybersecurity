@@ -11,3 +11,15 @@ Popular uses of AI in cybersecurity.
 * Endpoint Protection : Detecting threats such as ransomware.  
 * Application Security : Countering SSRF(Server Side Request Forgery), SQL Injection, XSS(Cross-Site Scripting) and DDoS(Distributed Denial of Service) attacks by using AI and ML tools.  
 * Suspect user behavior  
+
+# Detecting Spam
+Among the initial applications of AI to a cybersecurity field, spam detection is the major one since various approaches could be taken.  
+Here are some of those approaches.
+* Perceptron
+* Support Vector Machine
+* Phishing Detection with logistic regression and decision tree
+* Naive Bayes
+* NLP
+
+## Perceptron
+sample texts
