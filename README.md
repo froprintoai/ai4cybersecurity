@@ -20,6 +20,8 @@ Here are some of those approaches.
 * Phishing Detection with logistic regression and decision tree
 * Naive Bayes
 * NLP
+To implement a reliable spam filter, we need to introduce a score assigned on each message and allow it to help spam filters distinguish between spam mails and hams.(not spam messages) Also, our algorithms on which filters are based should be able to change its parameters dynamically, otherwise it would fail to deal with malicious senders' attempts. 
 
 ## Perceptron
-sample texts
+ y = wtx
+ ⊿wi = λ(y-yi) xi
