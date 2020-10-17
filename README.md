@@ -25,3 +25,7 @@ To implement a reliable spam filter, we need to introduce a score assigned on ea
 ## Perceptron
  y = wtx
  ⊿wi = λ(y-yi) xi
+pros
+* simple binary linear classifier
+cons
+* only applicable when the analyzed data is linearly separable
