@@ -31,4 +31,4 @@ cons
 * Only applicable when the analyzed data is linearly separable
 
 The following charts clearly show the Perceptron's weakness.
-![alt text](https://github.com/froprintoai/ai4cybersecurity/blob/master/spam_filter/img/img1.png?raw=true)
+![alt text](https://github.com/froprintoai/ai4cybersecurity/blob/master/src/spam_filter/img/img1.png?raw=true)
