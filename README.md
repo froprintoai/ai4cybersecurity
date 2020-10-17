@@ -23,9 +23,12 @@ Here are some of those approaches.
 To implement a reliable spam filter, we need to introduce a score assigned on each message and allow it to help spam filters distinguish between spam mails and hams.(not spam messages) Also, our algorithms on which filters are based should be able to change its parameters dynamically, otherwise it would fail to deal with malicious senders' attempts. 
 
 ## Perceptron
- y = wtx
- ⊿wi = λ(y-yi) xi
+Defined in src/spam_filter/perceptron.py.  
 pros
-* simple binary linear classifier
+* Simple binary linear classifier  
+
 cons
-* only applicable when the analyzed data is linearly separable
+* Only applicable when the analyzed data is linearly separable
+
+The following charts clearly show the Perceptron's weakness.
+![alt text](https://github.com/froprintoai/ai4cybersecurity/blob/master/spam_filter/img/img1.png?raw=true)
