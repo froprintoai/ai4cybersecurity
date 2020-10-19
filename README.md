@@ -32,3 +32,17 @@ cons
 
 The following charts clearly show the Perceptron's weakness.
 ![alt text](https://github.com/froprintoai/ai4cybersecurity/blob/master/src/spam_filter/img/img1.png?raw=true)
+
+## Support Vector Machine
+Defined in src/spam_filter/svm.py, where a linear kernel is used.
+
+## Phishing Detection solved by Logistic Regression
+Defined in src/spam_filter/phishing_detection_logistic_regression.py.
+P(y=c | X) = 1 / (1 + e^z) where z = WX
+pros  
+* Trained Efficiently
+* Performs well even in the presence of a large number of features  
+
+cons  
+* Features need to be linearly independent
+* Require more datas on average
